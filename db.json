@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Skipping",
+      "price": 50000
+    },
+    {
+      "id": 1,
+      "title": "Jersey Updated",
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "title": "Sepatu",
+      "price": 12000
+    },
+    {
+      "title": "Sandal",
+      "price": 3000,
+      "id": 3
+    },
+    {
+      "title": "Laptop",
+      "price": 10000,
+      "id": 4
+    },
+    {
+      "title": "Lem Korea",
+      "price": 3000,
+      "id": 5
+    }
+  ]
+}
